@@ -4,9 +4,9 @@ Make sure to use the alacritty terminal, other terminals wont work
 
 Steps to use my config :
 1. make a directory (if not already made) by running: 
-2.                                                   `mkdir ~/.config/alacritty/`
+                                                    `mkdir ~/.config/alacritty/`
 3. Copy my config into the newly created directory by runnning the following commands: 
-4.                                                  `cd ~/.config/alacritty`
+                                                    `cd ~/.config/alacritty`
                                                     `git clone https://github.com/atreyaved/Alacritty-Config.git`
                                                     `cd Alacritty-config`
                                                     `mv alacritty.yml ~/.config/alacritty`
@@ -16,7 +16,7 @@ Steps to use my config :
 Steps to install py-wal:
 ##Pywal is basically changed your terminal color scheme according to a image
 1.Install the package : 
-                        Arch Linux                  : `sudo pacman -S python-pywal`
+                        Arch Linux                  : `sudo pacman -S python-pywal` 
                         Debian/Ubuntu based distros : `sudo apt insatll sudo apt install python3-pip`
                                                       `sudo pip3 install pywal`    
                         Fedora                      : `sudo dnf install python3-pip`
