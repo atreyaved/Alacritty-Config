@@ -4,11 +4,22 @@ Make sure to use the alacritty terminal, other terminals wont work
 
 Steps to use my config :
 1. make a directory (if not already made) by running: 
+                                                    
                                                     `mkdir ~/.config/alacritty/`
+
+
 3. Copy my config into the newly created directory by runnning the following commands: 
+                                                    
+                                                    
                                                     `cd ~/.config/alacritty`
+                                                    
+                                                    
                                                     `git clone https://github.com/atreyaved/Alacritty-Config.git`
+                                                    
+                                                    
                                                     `cd Alacritty-config`
+                                                    
+                                                    
                                                     `mv alacritty.yml ~/.config/alacritty`
 3. Now just restart alacritty
 
