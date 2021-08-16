@@ -52,6 +52,7 @@ Steps to install py-wal:
 3. Starting automatically : 
                     Now that you have installed pywal, we are gonna start it whenever your terminal starts, to do that, do the following
                     `nano ~/.bashrc` (or your favorite text editor)
+                    Make sure you know what shell you use, for example, if use zsh, the file you want to edit is : ~/.zshrc
                     Now paste the following lines to the end of the file :
                                      
                                      
