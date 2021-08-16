@@ -37,7 +37,7 @@ Steps to use my config :
 
 
 Steps to install py-wal:
-##Pywal is basically changed your terminal color scheme according to a image
+##Pywal basically changes your terminal color scheme according to a image
 1.Install the package : 
 
 
