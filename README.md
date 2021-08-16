@@ -3,7 +3,8 @@ Just my personal alacritty config I use as my main, I also use py-wal, there wil
 Make sure to use the alacritty terminal, other terminals wont work
 
 How to install Alacritty : 
-                          `
+                          
+`
                           Arch Linux : sudo pacman -S alacritty
                           
                           Debian/Ubuntu Based : sudo apt install alacritty
