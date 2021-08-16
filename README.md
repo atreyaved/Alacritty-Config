@@ -2,6 +2,16 @@
 Just my personal alacritty config I use as my main, I also use py-wal, there will be instructions on how to use that
 Make sure to use the alacritty terminal, other terminals wont work
 
+How to install Alacritty : 
+                          `
+                          Arch Linux : sudo pacman -S alacritty
+                          
+                          Debian/Ubuntu Based : sudo apt install alacritty
+                          
+                          Fedora : sudo dnf install alacritty
+                          
+                          `
+
 Steps to use my config :
 1. make a directory (if not already made) by running: 
                                                     
