@@ -4,7 +4,8 @@ Make sure to use the alacritty terminal, other terminals wont work
 
 How to install Alacritty : 
                           
-`
+                          
+                          `
                           Arch Linux : sudo pacman -S alacritty
                           
                           Debian/Ubuntu Based : sudo apt install alacritty
