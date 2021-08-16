@@ -26,7 +26,7 @@ Steps to install py-wal:
                     Now that you have installed pywal, we are gonna start it whenever your terminal starts, to do that, do the following
                     `nano ~/.bashrc` (or your favorite text editor)
                     Now paste the following lines to the end of the file :
-       `                              # Import colorscheme from 'wal' asynchronously
+                                     `# Import colorscheme from 'wal' asynchronously
                                       # &   # Run the process in the background.
                                       # ( ) # Hide shell job control messages.
                                       (cat ~/.cache/wal/sequences &)
