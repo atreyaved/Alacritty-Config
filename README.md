@@ -16,6 +16,8 @@ Steps to use my config :
 Steps to install py-wal:
 ##Pywal is basically changed your terminal color scheme according to a image
 1.Install the package : 
+
+
                         Arch Linux                  : `sudo pacman -S python-pywal` 
                         Debian/Ubuntu based distros : `sudo apt insatll sudo apt install python3-pip`
                                                       `sudo pip3 install pywal`    
