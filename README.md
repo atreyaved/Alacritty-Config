@@ -7,7 +7,7 @@ Steps to use my config :
 2. Copy my config into the newly created directory `cd ~/.config/alacritty`
                                                    `git clone https://github.com/atreyaved/Alacritty-Config.git`
                                                    `cd Alacritty-config`
-                                                   `mv Alacritty.yml ~/.config/alacritty`
+                                                   `mv alacritty.yml ~/.config/alacritty`
 3. Now just restart alacritty
 
 
