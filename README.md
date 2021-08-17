@@ -1,6 +1,6 @@
 # Alacritty-Config
 Just my personal alacritty config, I use it as my main, I also use py-wal. There will be instructions on how to use that.
-Make sure to use the alacritty terminal, on other terminals won't work
+Make sure to use the alacritty terminal, other terminals won't work
 
 ## How to install Alacritty:
 
